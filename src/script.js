@@ -9,6 +9,7 @@ const gui = new dat.GUI()
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
 
+console.log();
 // Scene
 const scene = new THREE.Scene()
 
